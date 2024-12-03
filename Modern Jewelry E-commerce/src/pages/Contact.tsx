@@ -5,7 +5,7 @@ import { WhatsappIcon } from '../components/icons/WhatsappIcon';
 
 export function Contact() {
   const handleWhatsAppClick = () => {
-    window.location.href = 'https://wa.me/917249260870';
+    window.location.href = 'https://wa.me/10101234567';
   };
 
   return (
